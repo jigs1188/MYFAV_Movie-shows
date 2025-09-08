@@ -1,4 +1,4 @@
-// path: NetFlixClone/backend/server.js
+// MyFav Movies & Shows Platform - Backend Server
 
 const express = require('express');
 const cors = require('cors');
