@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+# MyFav Movies & Shows - Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is the React frontend for the MyFav Movies & Shows Platform. Built with React 18, this application provides a modern, responsive interface for discovering and exploring movies and TV shows.
+
+## Features
+
+- **Modern React Development** - Uses latest React 18+ features and hooks
+- **Responsive Design** - Optimized for all screen sizes
+- **Interactive UI Components** - Custom components for movie browsing and data visualization
+- **Real-time Search** - Instant search results with TMDB API integration
+- **Data Visualization** - Interactive charts using Chart.js
+- **User Authentication** - Complete login/register system with JWT
+- **Video Integration** - YouTube trailer embedding with React Player
 
 ## Available Scripts
 
