@@ -59,7 +59,7 @@ MYFAV-Movie-shows/
 │   │   └── tmdb.js        # TMDB API integration
 │   └── server.js          # Express server configuration
 │
-├── netflix-clone/            # React Frontend Application
+├── frontend/                   # React Frontend Application
 │   └── src/
 │       ├── components/      # Reusable UI components
 │       │   ├── Header.js   # Navigation component
@@ -117,7 +117,7 @@ npm start
 ### 🔹 Frontend Setup
 
 ```bash
-cd netflix-clone
+cd frontend
 npm install
 
 # Start the React development server  
