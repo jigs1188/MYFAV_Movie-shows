@@ -197,8 +197,7 @@ The search functionality is integrated into the main navigation and provides com
 ![Home Page](myfav.png)
 *Main dashboard with trending content and personalized recommendations*
 
-/*![Data Visualization](Data-Visualization-Dashboard.png)
-*Interactive analytics dashboard with entertainment industry insights* */
+
 
 ---
 
