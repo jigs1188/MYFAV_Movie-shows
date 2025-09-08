@@ -194,7 +194,7 @@ The search functionality is integrated into the main navigation and provides com
 
 ## 📸 Application Screenshots
 
-![Home Page](MyFav-Platform-Home.png)
+![Home Page](myfav.png)
 *Main dashboard with trending content and personalized recommendations*
 
 ![Data Visualization](Data-Visualization-Dashboard.png)
